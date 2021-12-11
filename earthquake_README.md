@@ -1,0 +1,13 @@
+executive summary
+
+Earth is a dynamic planet. Its crust is continuously forming and deforming, constantly pushed and pulled as it moves. When strain that has built up over time is suddenly released, the crust shakes, and we call this movement an earthquake. The ground shaking may also cause landslides, mudslides, and avalanches on steeper hills or mountains, all of which can damage buildings and hurt people. Depending upon their strength and where they strike, earthquakes can inflict severe property damage and claim thousands of lives. Earthquake risk varies across the Earth. Because earthquake activity is associated with plate boundaries, some places on Earth have a greater likelihood of experiencing earthquakes than do other locales. Every year these earthquakes cause great damage to the property and lives. The amount of economic damage caused by these large earthquakes varies significantly, from about $2 million to more than $232 billion .
+ This project seeks to answer where does most of the major earthquakes with magnitude greater than 7 occur in the world, analysis its pattern and check whether we can predict probability of an earthquake of magnitude 4 or above in the north east part of India in near future. 
+Prediction of earthquake will help in the disaster management system. The goal of earthquake prediction is to give warning of potentially damaging earthquakes early enough to allow appropriate response to the disaster, enabling people to minimize loss of life and property.
+
+
+Results
+
+The geographic distribution of past earthquakes from 1800 to 2020 on Earth is not random. Due to the stresses and strains associated with a crust that is broken into plates that are moving, earthquakes are predictably concentrated along the plate boundaries and fault systems associated with the plates. The distribution of earthquakes coincides with the boundaries between tectonic plates.
+Big earthquakes with magnitude greater than 7 tend to be concentrated in places where tectonic plates are colliding, rather than pulling apart. Big earthquakes occur most frequently at convergent plate boundaries. Concentrations of big earthquakes surround the Pacific Ocean in a pattern often described as the ring of fire.
+Approximately 50% of big earthquakes occur within 100 miles of a convergent plate boundary and 75% of big earthquakes occurred within 200 miles of a convergent boundary.
+Using time series model to the pattern of earthquakes from 1800 to 2020 with magnitude greater than 4 in North East India, probable location of future earthquakes has been calculated for 10 years. 
